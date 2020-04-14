@@ -7,9 +7,9 @@ The Project is part of the Datat Analyst Nanodegree @ Udacity. The project cover
 Anaconda Jupyter Notebook 
 
 Libraries: <br/>
-`1` Numpy
-`2` Pandas
-`3` Matplotlib
+`1` Numpy <br/>
+`2` Pandas <br/>
+`3` Matplotlib <br/>
 `4` Random
  
  ## License
