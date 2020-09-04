@@ -1,4 +1,4 @@
-# ABTestProject
+# A/B Test Project
 
 ## About the Project 
 The Project is part of the Datat Analyst Nanodegree @ Udacity. The project cover A/B Test for Launch new page.
